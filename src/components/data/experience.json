@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Technical Conten Writer",
+    "organisation": "GeeksForGeeks",
+    "startDate": "March, 2023",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Worked on GeeksForGeeks Portal",
+      "Worked with GFG Write Team"
+    ],
+    "imageSrc": "company/GFG.png"
+  },
+  {
+    "id": 2,
+    "role": "Technical Video Conten Creator",
+    "organisation": "GeeksForGeeks",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Working As a Mentor With GFG Video Content Creator Team",
+      "Providing Valuable Content to Their Users"
+    ],
+    "imageSrc": "company/GFG.png"
+  }
+
+]
